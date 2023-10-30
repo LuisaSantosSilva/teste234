@@ -1,0 +1,6 @@
+[submodule "CalculadoraPAePG"]
+	path = CalculadoraPAePG
+	url = https://github.com/LuisaSantosSilva/CalculadoraPAePG.git
+[submodule "BeloMar"]
+	path = BeloMar
+	url = https://github.com/LuisaSantosSilva/BeloMar.git
